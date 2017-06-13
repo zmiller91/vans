@@ -1,0 +1,9 @@
+[submodule "public/lib/requirejs"]
+	path = public/lib/requirejs
+	url = https://github.com/requirejs/requirejs
+[submodule "public/lib/startbootstrap-1-col-portfolio"]
+	path = public/lib/startbootstrap-1-col-portfolio
+	url = https://github.com/blackrockdigital/startbootstrap-1-col-portfolio
+[submodule "lib/php/common"]
+	path = lib/php/common
+	url = https://github.com/zmiller91/php-common
