@@ -19,9 +19,8 @@ create table configuration(
     primary key(name)
 );
 
-
 INSERT INTO configuration
 (name, json)
 VALUES
-('cities', '["denver", "boulder", "omaha", "saltlakecity", "lincoln", "albuquerque", "lasvegas", "pheonix", "desmoines"]'),
+('cities', '["denver", "boulder", "omaha", "saltlakecity", "lincoln", "albuquerque", "lasvegas", "phoenix", "desmoines"]'),
 ('search', '"?query=work+van&format=rss"');
